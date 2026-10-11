@@ -40,3 +40,5 @@ h1,.number,.days,.post,.stats b,footer b{font-family:'Barlow Condensed','Space G
 .unlock-actions button{min-width:0!important;min-height:50px!important;padding:10px 8px!important;white-space:nowrap!important}
 
 .mystery-card.unlocked{cursor:pointer;transition:border-color .2s,transform .2s}.mystery-card.unlocked:active{transform:scale(.985)}.mystery-card.unlocked:focus-visible{outline:2px solid #7af8ed;outline-offset:3px}.prompt-hint{display:block!important;margin-top:9px!important;color:#80e9db!important;font-size:10px!important;font-weight:700;letter-spacing:.02em}
+
+.challenge-card{border-color:#394052;background:linear-gradient(125deg,#1b1c2a,#0e1018)}.challenge-card .mystery-icon{background:#272539;border-color:#4a435d;color:#d8c7ff}.challenge-card.unlocked{border-color:#8e75c4;background:linear-gradient(125deg,#24203b,#11131e)}.challenge-card .mystery-unlock{background:#34264c;border-color:#7658ad;color:#e4d4ff}.challenge-card .mystery-unlock:disabled{background:#24242d;border-color:#393747;color:#787586}.challenge-card .prompt-hint{color:#c6aaff!important}
