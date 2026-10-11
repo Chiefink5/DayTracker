@@ -38,3 +38,5 @@ h1,.number,.days,.post,.stats b,footer b{font-family:'Barlow Condensed','Space G
 .unlock-price{display:flex!important;justify-content:center!important;align-items:center!important;gap:9px!important;flex-wrap:wrap!important;margin:0 0 19px!important;padding:14px!important}
 .unlock-actions{display:grid!important;grid-template-columns:1fr 1.4fr!important;gap:10px!important;width:100%!important}
 .unlock-actions button{min-width:0!important;min-height:50px!important;padding:10px 8px!important;white-space:nowrap!important}
+
+.mystery-card.unlocked{cursor:pointer;transition:border-color .2s,transform .2s}.mystery-card.unlocked:active{transform:scale(.985)}.mystery-card.unlocked:focus-visible{outline:2px solid #7af8ed;outline-offset:3px}.prompt-hint{display:block!important;margin-top:9px!important;color:#80e9db!important;font-size:10px!important;font-weight:700;letter-spacing:.02em}
